@@ -35,3 +35,7 @@ $$\text{Final Score} = (w_{\text{sim}} \times \text{sim-}_{\text{score}}) + (w_{
 * **ML / NLP:** sentence-transformers (`all-MiniLM-L6-v2`), scikit-learn (`MinMaxScaler`, `cosine_similarity`)
 * **Data & Compute:** pandas,numpy,sklearn
 * **Frontend:** streamlit
+
+
+---
+AI tools were used for minor formatting, editing, and troubleshooting in this project.
